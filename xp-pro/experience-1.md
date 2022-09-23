@@ -1,4 +1,4 @@
-# Période en entreprise du 23/11/2020 au 11/12/2020
+# Période en entreprise du 26/09/2022 au 14/10/2022
 
 > Répond aux questions suivantes afin de préparer le partage d'expérience avec ton groupe
 

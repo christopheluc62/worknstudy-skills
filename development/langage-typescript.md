@@ -6,28 +6,28 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'intéret de TypeScript dans l'IDE ❌ / ✔️
-- les types de bases ❌ / ✔️
-- comment et pourquoi étendre une interface ❌ / ✔️
-- les classes et les decorators ❌ / ✔️
+- l'intéret de TypeScript dans l'IDE ✔️
+- les types de bases ✔️
+- comment et pourquoi étendre une interface ❌
+- les classes et les decorators ❌
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ❌
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ❌
 
 [lien github](...)
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable❌
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ❌
 
 Description :
 
@@ -54,5 +54,5 @@ Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+- J'ai ecrit un [tutoriel](...) ❌
+- J'ai fait une [présentation](...) ❌

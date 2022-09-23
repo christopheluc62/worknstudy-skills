@@ -6,30 +6,30 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les tests unitaires ❌ / ✔️
-- les mocks ❌ / ✔️
-- les tests d'integration ❌ / ✔️
-- les tests de bout en bout (end to end) ❌ / ✔️
-- le TDD ❌ / ✔️
-- les tests par snapshot ❌ / ✔️
+- les tests unitaires ❌
+- les mocks ❌
+- les tests d'integration ❌
+- les tests de bout en bout (end to end) ❌
+- le TDD ❌
+- les tests par snapshot ❌
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ❌
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ❌
 
 [lien github](...)
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable❌
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ❌
 
 Description :
 
@@ -56,5 +56,5 @@ Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+- J'ai ecrit un [tutoriel](...) ❌
+- J'ai fait une [présentation](...) ❌

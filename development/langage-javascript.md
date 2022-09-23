@@ -6,10 +6,10 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les `structures` de base du langage ❌ / ✔️
-- les normes `ecmascript` ❌ / ✔️
-- l'utilisation de l'`asynchrone` ❌ / ✔️
-- les spécifités du mot-clef `this` ❌ / ✔️
+- les `structures` de base du langage ✔️
+- les normes `ecmascript` ❌
+- l'utilisation de l'`asynchrone` ❌
+- les spécifités du mot-clef `this` ❌
 
 ## 💻 Je code en Javascript
 
@@ -19,9 +19,7 @@
 (e) => mc2;
 ```
 
-### Utilisation dans un projet ❌ / ✔️
-
-[lien github](...)
+### Utilisation dans un projet ✔️
 
 Description :
 
@@ -31,9 +29,9 @@ Description :
 
 Description :
 
-### J'ai utilisé ce langage en environement professionnel ❌ / ✔️
+### J'ai utilisé ce langage en environement professionnel ✔️
 
-Description :
+www.youpifun.com (site de jeux sur internet) développement de jeux de grattage, ajout de fonctionnalités sur le site, corrections de bugs
 
 ## 🌐 J'utilise des ressources
 
@@ -58,6 +56,5 @@ Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
-
+- J'ai ecrit un [tutoriel](...) ❌
+- J'ai fait une [présentation](...) ❌
